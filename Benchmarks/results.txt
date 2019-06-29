@@ -1,0 +1,177 @@
+With eBPF DDoS filter
+
+MIGRATED TCP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 10.0.0.1 () port 0 AF_INET : demo : first burst 0 : cpu bind
+Interim result:  635.45 Trans/s over 1.001 seconds ending at 1561679272.480
+Interim result:  643.98 Trans/s over 1.002 seconds ending at 1561679273.482
+Interim result:  636.39 Trans/s over 1.010 seconds ending at 1561679274.492
+Interim result:  642.55 Trans/s over 1.001 seconds ending at 1561679275.493
+Interim result:  640.68 Trans/s over 1.000 seconds ending at 1561679276.494
+Interim result:  640.07 Trans/s over 1.001 seconds ending at 1561679277.495
+Interim result:  649.95 Trans/s over 1.000 seconds ending at 1561679278.495
+Interim result:  641.05 Trans/s over 1.014 seconds ending at 1561679279.509
+Interim result:  637.84 Trans/s over 1.005 seconds ending at 1561679280.514
+Interim result:  639.35 Trans/s over 1.001 seconds ending at 1561679281.515
+Interim result:  640.85 Trans/s over 1.000 seconds ending at 1561679282.515
+Interim result:  640.87 Trans/s over 1.000 seconds ending at 1561679283.515
+Interim result:  643.76 Trans/s over 1.000 seconds ending at 1561679284.516
+Interim result:  642.01 Trans/s over 1.003 seconds ending at 1561679285.519
+Interim result:  641.90 Trans/s over 1.000 seconds ending at 1561679286.519
+Interim result:  638.01 Trans/s over 1.006 seconds ending at 1561679287.525
+Interim result:  638.71 Trans/s over 1.000 seconds ending at 1561679288.526
+Interim result:  648.49 Trans/s over 1.001 seconds ending at 1561679289.527
+Interim result:  637.86 Trans/s over 1.016 seconds ending at 1561679290.542
+Interim result:  638.12 Trans/s over 0.937 seconds ending at 1561679291.480
+Local /Remote
+Socket Size   Request  Resp.   Elapsed  Trans.
+Send   Recv   Size     Size    Time     Rate         
+bytes  Bytes  bytes    bytes   secs.    per sec   
+
+16384  131072 1        1       20.00     640.87   
+16384  131072
+
+MIGRATED TCP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 10.0.0.1 () port 0 AF_INET : demo : first burst 0 : cpu bind
+Interim result:  642.40 Trans/s over 1.001 seconds ending at 1561679313.900
+Interim result:  641.91 Trans/s over 1.000 seconds ending at 1561679314.900
+Interim result:  641.82 Trans/s over 1.000 seconds ending at 1561679315.901
+Interim result:  638.73 Trans/s over 1.005 seconds ending at 1561679316.906
+Interim result:  639.52 Trans/s over 1.001 seconds ending at 1561679317.907
+Interim result:  638.60 Trans/s over 1.002 seconds ending at 1561679318.909
+Interim result:  638.99 Trans/s over 1.002 seconds ending at 1561679319.910
+Interim result:  639.60 Trans/s over 1.001 seconds ending at 1561679320.911
+Interim result:  644.51 Trans/s over 1.001 seconds ending at 1561679321.912
+Interim result:  633.66 Trans/s over 1.018 seconds ending at 1561679322.930
+Interim result:  635.75 Trans/s over 1.000 seconds ending at 1561679323.930
+Interim result:  632.84 Trans/s over 1.003 seconds ending at 1561679324.933
+Interim result:  641.25 Trans/s over 1.001 seconds ending at 1561679325.935
+Interim result:  636.56 Trans/s over 1.007 seconds ending at 1561679326.942
+Interim result:  631.72 Trans/s over 1.007 seconds ending at 1561679327.948
+Interim result:  643.68 Trans/s over 1.000 seconds ending at 1561679328.949
+Interim result:  642.17 Trans/s over 1.003 seconds ending at 1561679329.952
+Interim result:  630.50 Trans/s over 1.018 seconds ending at 1561679330.970
+Interim result:  636.07 Trans/s over 1.001 seconds ending at 1561679331.971
+Interim result:  628.20 Trans/s over 0.928 seconds ending at 1561679332.900
+Local /Remote
+Socket Size   Request  Resp.   Elapsed  Trans.
+Send   Recv   Size     Size    Time     Rate         
+bytes  Bytes  bytes    bytes   secs.    per sec   
+
+16384  131072 1        1       20.00     637.94   
+16384  131072
+
+MIGRATED TCP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 10.0.0.1 () port 0 AF_INET : demo : first burst 0 : cpu bind
+Interim result:  645.31 Trans/s over 1.009 seconds ending at 1561680502.455
+Interim result:  636.98 Trans/s over 1.014 seconds ending at 1561680503.469
+Interim result:  639.94 Trans/s over 1.000 seconds ending at 1561680504.469
+Interim result:  646.38 Trans/s over 1.001 seconds ending at 1561680505.470
+Interim result:  644.61 Trans/s over 1.002 seconds ending at 1561680506.473
+Interim result:  640.71 Trans/s over 1.005 seconds ending at 1561680507.478
+Interim result:  648.55 Trans/s over 1.001 seconds ending at 1561680508.478
+Interim result:  639.92 Trans/s over 1.013 seconds ending at 1561680509.491
+Interim result:  643.18 Trans/s over 1.001 seconds ending at 1561680510.492
+Interim result:  639.94 Trans/s over 1.005 seconds ending at 1561680511.497
+Interim result:  646.82 Trans/s over 1.000 seconds ending at 1561680512.497
+Interim result:  640.21 Trans/s over 1.011 seconds ending at 1561680513.508
+Interim result:  640.00 Trans/s over 1.002 seconds ending at 1561680514.509
+Interim result:  637.90 Trans/s over 1.002 seconds ending at 1561680515.511
+Interim result:  644.42 Trans/s over 1.001 seconds ending at 1561680516.512
+Interim result:  642.10 Trans/s over 1.003 seconds ending at 1561680517.515
+Interim result:  648.27 Trans/s over 1.001 seconds ending at 1561680518.516
+Interim result:  642.99 Trans/s over 1.008 seconds ending at 1561680519.524
+Interim result:  640.16 Trans/s over 1.004 seconds ending at 1561680520.528
+Interim result:  642.65 Trans/s over 0.918 seconds ending at 1561680521.446
+Local /Remote
+Socket Size   Request  Resp.   Elapsed  Trans.
+Send   Recv   Size     Size    Time     Rate         
+bytes  Bytes  bytes    bytes   secs.    per sec   
+
+16384  131072 1        1       20.00     642.54   
+16384  131072
+
+With LUA DDoS filter
+
+MIGRATED TCP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 10.0.0.1 () port 0 AF_INET : demo : first burst 0 : cpu bind
+Interim result:  575.09 Trans/s over 1.028 seconds ending at 1561679443.206
+Interim result:  565.31 Trans/s over 1.017 seconds ending at 1561679444.223
+Interim result:  561.75 Trans/s over 1.006 seconds ending at 1561679445.229
+Interim result:  556.04 Trans/s over 1.011 seconds ending at 1561679446.239
+Interim result:  557.48 Trans/s over 1.001 seconds ending at 1561679447.240
+Interim result:  558.82 Trans/s over 1.000 seconds ending at 1561679448.241
+Interim result:  569.18 Trans/s over 1.001 seconds ending at 1561679449.242
+Interim result:  554.83 Trans/s over 1.026 seconds ending at 1561679450.268
+Interim result:  560.96 Trans/s over 1.002 seconds ending at 1561679451.269
+Interim result:  553.05 Trans/s over 1.014 seconds ending at 1561679452.284
+Interim result:  551.38 Trans/s over 1.003 seconds ending at 1561679453.287
+Interim result:  491.25 Trans/s over 1.122 seconds ending at 1561679454.408
+Interim result:  520.67 Trans/s over 1.001 seconds ending at 1561679455.409
+Interim result:  560.90 Trans/s over 1.004 seconds ending at 1561679456.413
+Interim result:  569.40 Trans/s over 1.001 seconds ending at 1561679457.414
+Interim result:  564.55 Trans/s over 1.006 seconds ending at 1561679458.420
+Interim result:  566.59 Trans/s over 1.001 seconds ending at 1561679459.421
+Interim result:  568.08 Trans/s over 1.002 seconds ending at 1561679460.422
+Interim result:  576.63 Trans/s over 1.001 seconds ending at 1561679461.423
+Interim result:  569.40 Trans/s over 0.755 seconds ending at 1561679462.178
+Local /Remote
+Socket Size   Request  Resp.   Elapsed  Trans.
+Send   Recv   Size     Size    Time     Rate         
+bytes  Bytes  bytes    bytes   secs.    per sec   
+
+16384  131072 1        1       20.00     557.01   
+16384  131072
+
+MIGRATED TCP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 10.0.0.1 () port 0 AF_INET : demo : first burst 0 : cpu bind
+Interim result:  578.05 Trans/s over 1.081 seconds ending at 1561679616.088
+Interim result:  553.05 Trans/s over 1.045 seconds ending at 1561679617.133
+Interim result:  552.92 Trans/s over 1.000 seconds ending at 1561679618.133
+Interim result:  546.98 Trans/s over 1.011 seconds ending at 1561679619.144
+Interim result:  546.59 Trans/s over 1.001 seconds ending at 1561679620.145
+Interim result:  543.21 Trans/s over 1.007 seconds ending at 1561679621.152
+Interim result:  504.70 Trans/s over 1.076 seconds ending at 1561679622.227
+Interim result:  502.51 Trans/s over 1.005 seconds ending at 1561679623.232
+Interim result:  561.27 Trans/s over 1.001 seconds ending at 1561679624.234
+Interim result:  570.80 Trans/s over 1.002 seconds ending at 1561679625.236
+Interim result:  568.30 Trans/s over 1.003 seconds ending at 1561679626.239
+Interim result:  569.53 Trans/s over 1.001 seconds ending at 1561679627.240
+Interim result:  579.32 Trans/s over 1.006 seconds ending at 1561679628.246
+Interim result:  564.43 Trans/s over 1.026 seconds ending at 1561679629.272
+Interim result:  572.86 Trans/s over 1.000 seconds ending at 1561679630.272
+Interim result:  562.65 Trans/s over 1.018 seconds ending at 1561679631.290
+Interim result:  566.97 Trans/s over 1.000 seconds ending at 1561679632.290
+Interim result:  560.70 Trans/s over 1.011 seconds ending at 1561679633.302
+Interim result:  558.85 Trans/s over 1.002 seconds ending at 1561679634.304
+Interim result:  566.39 Trans/s over 0.703 seconds ending at 1561679635.006
+Local /Remote
+Socket Size   Request  Resp.   Elapsed  Trans.
+Send   Recv   Size     Size    Time     Rate         
+bytes  Bytes  bytes    bytes   secs.    per sec   
+
+16384  131072 1        1       20.00     556.23   
+16384  131072
+
+MIGRATED TCP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 10.0.0.1 () port 0 AF_INET : demo : first burst 0 : cpu bind
+Interim result:  576.98 Trans/s over 1.007 seconds ending at 1561680437.478
+Interim result:  564.06 Trans/s over 1.023 seconds ending at 1561680438.501
+Interim result:  570.17 Trans/s over 1.001 seconds ending at 1561680439.502
+Interim result:  569.82 Trans/s over 1.000 seconds ending at 1561680440.502
+Interim result:  566.70 Trans/s over 1.004 seconds ending at 1561680441.506
+Interim result:  563.61 Trans/s over 1.006 seconds ending at 1561680442.513
+Interim result:  567.83 Trans/s over 1.000 seconds ending at 1561680443.513
+Interim result:  566.72 Trans/s over 1.000 seconds ending at 1561680444.513
+Interim result:  576.31 Trans/s over 1.001 seconds ending at 1561680445.514
+Interim result:  570.97 Trans/s over 1.009 seconds ending at 1561680446.523
+Interim result:  564.71 Trans/s over 1.009 seconds ending at 1561680447.533
+Interim result:  570.87 Trans/s over 1.000 seconds ending at 1561680448.533
+Interim result:  563.27 Trans/s over 1.014 seconds ending at 1561680449.547
+Interim result:  570.33 Trans/s over 1.001 seconds ending at 1561680450.548
+Interim result:  562.41 Trans/s over 1.013 seconds ending at 1561680451.561
+Interim result:  561.07 Trans/s over 1.003 seconds ending at 1561680452.565
+Interim result:  560.85 Trans/s over 1.000 seconds ending at 1561680453.565
+Interim result:  549.36 Trans/s over 1.019 seconds ending at 1561680454.584
+Interim result:  562.85 Trans/s over 1.000 seconds ending at 1561680455.585
+Interim result:  552.94 Trans/s over 0.886 seconds ending at 1561680456.471
+Local /Remote
+Socket Size   Request  Resp.   Elapsed  Trans.
+Send   Recv   Size     Size    Time     Rate         
+bytes  Bytes  bytes    bytes   secs.    per sec   
+
+16384  131072 1        1       20.00     565.60   
+16384  131072

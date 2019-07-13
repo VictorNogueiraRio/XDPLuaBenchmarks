@@ -1,0 +1,213 @@
+BASELINE:
+Connecting to host 10.0.0.1, port 5010
+[  4] local 192.168.1.174 port 52504 connected to 10.0.0.1 port 5010
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec   110 MBytes   919 Mbits/sec    0    991 KBytes       
+[  4]   1.00-2.00   sec   109 MBytes   916 Mbits/sec    0    991 KBytes       
+[  4]   2.00-3.00   sec  64.9 MBytes   544 Mbits/sec    5    716 KBytes       
+[  4]   3.00-4.00   sec  1.81 MBytes  15.1 Mbits/sec   20   1.41 KBytes       
+[  4]   4.00-5.00   sec   499 KBytes  4.09 Mbits/sec    1   15.6 KBytes       
+[  4]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec    0   15.6 KBytes       
+[  4]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec    1   1.41 KBytes       
+[  4]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec    0   1.41 KBytes       
+[  4]   8.00-9.00   sec  18.4 KBytes   151 Kbits/sec    1   33.9 KBytes       
+[  4]   9.00-10.00  sec  36.8 KBytes   301 Kbits/sec    0   67.9 KBytes       
+[  4]  10.00-11.00  sec  70.7 KBytes   579 Kbits/sec    0    137 KBytes       
+[  4]  11.00-12.00  sec  0.00 Bytes  0.00 bits/sec    0    137 KBytes       
+[  4]  12.00-13.00  sec  0.00 Bytes  0.00 bits/sec    0    137 KBytes       
+[  4]  13.00-14.00  sec  0.00 Bytes  0.00 bits/sec    0    137 KBytes       
+[  4]  14.00-15.00  sec  0.00 Bytes  0.00 bits/sec    0    137 KBytes       
+[  4]  15.00-16.00  sec  38.2 KBytes   313 Kbits/sec    2   11.3 KBytes       
+[  4]  16.00-17.00  sec  0.00 Bytes  0.00 bits/sec    0   11.3 KBytes       
+[  4]  17.00-18.00  sec  0.00 Bytes  0.00 bits/sec    0   11.3 KBytes       
+[  4]  18.00-19.00  sec  0.00 Bytes  0.00 bits/sec    0   11.3 KBytes       
+[  4]  19.00-20.00  sec  0.00 Bytes  0.00 bits/sec    0   11.3 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-20.00  sec   286 MBytes   120 Mbits/sec   30             sender
+[  4]   0.00-20.00  sec   285 MBytes   119 Mbits/sec                  receiver
+
+iperf Done.
+
+CPU3 peak: 98.3%
+CPU2 peak: 88.7%
+CPU1 peak: 0.7%
+CPU0 peak: 0.0%
+
+Connecting to host 10.0.0.1, port 5010
+[  4] local 192.168.1.174 port 52788 connected to 10.0.0.1 port 5010
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec   110 MBytes   920 Mbits/sec    0   1.06 MBytes       
+[  4]   1.00-2.00   sec   109 MBytes   917 Mbits/sec    0   1.06 MBytes       
+[  4]   2.00-3.00   sec  38.2 MBytes   320 Mbits/sec    1   1.07 MBytes       
+[  4]   3.00-4.00   sec  1.72 MBytes  14.4 Mbits/sec   68   9.90 KBytes       
+[  4]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    1   1.41 KBytes       
+[  4]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec    0   1.41 KBytes       
+[  4]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec    1   1.41 KBytes       
+[  4]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec    0   1.41 KBytes       
+[  4]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec    0   1.41 KBytes       
+[  4]   9.00-10.00  sec  0.00 Bytes  0.00 bits/sec    0   1.41 KBytes       
+[  4]  10.00-11.00  sec  9.90 KBytes  81.1 Kbits/sec    5   8.48 KBytes       
+[  4]  11.00-12.00  sec  0.00 Bytes  0.00 bits/sec    0   8.48 KBytes       
+[  4]  12.00-13.00  sec  0.00 Bytes  0.00 bits/sec    0   8.48 KBytes       
+[  4]  13.00-14.00  sec  0.00 Bytes  0.00 bits/sec    0   8.48 KBytes       
+[  4]  14.00-15.00  sec  0.00 Bytes  0.00 bits/sec    0   8.48 KBytes       
+[  4]  15.00-16.00  sec  0.00 Bytes  0.00 bits/sec    0   8.48 KBytes       
+[  4]  16.00-17.00  sec  0.00 Bytes  0.00 bits/sec    0   8.48 KBytes       
+[  4]  17.00-18.00  sec  0.00 Bytes  0.00 bits/sec    0   8.48 KBytes       
+[  4]  18.00-19.00  sec  0.00 Bytes  0.00 bits/sec    0   8.48 KBytes       
+[  4]  19.00-20.00  sec  0.00 Bytes  0.00 bits/sec    1   1.41 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-20.00  sec   259 MBytes   109 Mbits/sec   77             sender
+[  4]   0.00-20.00  sec   258 MBytes   108 Mbits/sec                  receiver
+
+iperf Done.
+
+CPU3 peak: 97.2%
+CPU2 peak: 85.3%
+CPU1 peak: 0.7%
+CPU0 peak: 0.0%
+
+LUA:
+
+Connecting to host 10.0.0.1, port 5010
+[  4] local 192.168.1.174 port 52616 connected to 10.0.0.1 port 5010
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec   110 MBytes   920 Mbits/sec    0   1.00 MBytes       
+[  4]   1.00-2.00   sec   109 MBytes   916 Mbits/sec    0   1.00 MBytes       
+[  4]   2.00-3.00   sec  85.0 MBytes   713 Mbits/sec    0   1.00 MBytes       
+[  4]   3.00-4.00   sec  62.6 MBytes   525 Mbits/sec    0   1.00 MBytes       
+[  4]   4.00-5.00   sec  62.0 MBytes   520 Mbits/sec    0   1.00 MBytes       
+[  4]   5.00-6.00   sec  62.6 MBytes   525 Mbits/sec    0   1.00 MBytes       
+[  4]   6.00-7.00   sec  62.7 MBytes   526 Mbits/sec    0   1.00 MBytes       
+[  4]   7.00-8.00   sec  62.1 MBytes   521 Mbits/sec    0   1.00 MBytes       
+[  4]   8.00-9.00   sec  61.7 MBytes   518 Mbits/sec    0   1.00 MBytes       
+[  4]   9.00-10.00  sec  61.7 MBytes   518 Mbits/sec    0   1.00 MBytes       
+[  4]  10.00-11.00  sec  61.8 MBytes   518 Mbits/sec    0   1.00 MBytes       
+[  4]  11.00-12.00  sec  61.7 MBytes   518 Mbits/sec    0   1.00 MBytes       
+[  4]  12.00-13.00  sec  61.8 MBytes   518 Mbits/sec    0   1.00 MBytes       
+[  4]  13.00-14.00  sec  61.7 MBytes   518 Mbits/sec    0   1.00 MBytes       
+[  4]  14.00-15.00  sec  61.7 MBytes   518 Mbits/sec    0   1.00 MBytes       
+[  4]  15.00-16.00  sec  61.7 MBytes   518 Mbits/sec    0   1.00 MBytes       
+[  4]  16.00-17.00  sec  61.7 MBytes   518 Mbits/sec    0   1.00 MBytes       
+[  4]  17.00-18.00  sec  61.8 MBytes   518 Mbits/sec    0   1.00 MBytes       
+[  4]  18.00-19.00  sec  61.7 MBytes   518 Mbits/sec    0   1.00 MBytes       
+[  4]  19.00-20.00  sec  61.7 MBytes   518 Mbits/sec    0   1.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-20.00  sec  1.32 GBytes   569 Mbits/sec    0             sender
+[  4]   0.00-20.00  sec  1.32 GBytes   568 Mbits/sec                  receiver
+
+iperf Done.
+
+CPU3 peak: 73.8%
+CPU2 peak: 19.2%
+CPU1 peak: 0.7%
+CPU0 peak: 0.0%
+
+Connecting to host 10.0.0.1, port 5010
+[  4] local 192.168.1.174 port 52968 connected to 10.0.0.1 port 5010
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec   110 MBytes   921 Mbits/sec    0   1.02 MBytes       
+[  4]   1.00-2.00   sec   109 MBytes   916 Mbits/sec    0   1.02 MBytes       
+[  4]   2.00-3.00   sec  87.8 MBytes   736 Mbits/sec    0   1.02 MBytes       
+[  4]   3.00-4.00   sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]   4.00-5.00   sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]   5.00-6.00   sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]   6.00-7.00   sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]   7.00-8.00   sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]   8.00-9.00   sec  60.4 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]   9.00-10.00  sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]  10.00-11.00  sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]  11.00-12.00  sec  60.4 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]  12.00-13.00  sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]  13.00-14.00  sec  60.4 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]  14.00-15.00  sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]  15.00-16.00  sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]  16.00-17.00  sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]  17.00-18.00  sec  60.4 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]  18.00-19.00  sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+[  4]  19.00-20.00  sec  60.5 MBytes   507 Mbits/sec    0   1.02 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-20.00  sec  1.30 GBytes   560 Mbits/sec    0             sender
+[  4]   0.00-20.00  sec  1.30 GBytes   559 Mbits/sec                  receiver
+
+iperf Done.
+
+CPU3 peak: 74%
+CPU2 peak: 17.3%
+CPU1 peak: 0.7%
+CPU0 peak: 0.0%
+
+EBPF:
+
+Connecting to host 10.0.0.1, port 5010
+[  4] local 192.168.1.174 port 52666 connected to 10.0.0.1 port 5010
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec   110 MBytes   919 Mbits/sec    0   1.02 MBytes       
+[  4]   1.00-2.00   sec   109 MBytes   916 Mbits/sec    0   1.02 MBytes       
+[  4]   2.00-3.00   sec  81.1 MBytes   680 Mbits/sec    0   1.02 MBytes       
+[  4]   3.00-4.00   sec  62.2 MBytes   522 Mbits/sec    0   1.02 MBytes       
+[  4]   4.00-5.00   sec  62.1 MBytes   521 Mbits/sec    0   1.02 MBytes       
+[  4]   5.00-6.00   sec  62.1 MBytes   521 Mbits/sec    0   1.02 MBytes       
+[  4]   6.00-7.00   sec  62.1 MBytes   521 Mbits/sec    0   1.02 MBytes       
+[  4]   7.00-8.00   sec  61.6 MBytes   517 Mbits/sec    0   1.02 MBytes       
+[  4]   8.00-9.00   sec  61.2 MBytes   514 Mbits/sec    0   1.02 MBytes       
+[  4]   9.00-10.00  sec  61.2 MBytes   513 Mbits/sec    0   1.02 MBytes       
+[  4]  10.00-11.00  sec  61.2 MBytes   513 Mbits/sec    0   1.02 MBytes       
+[  4]  11.00-12.00  sec  61.2 MBytes   514 Mbits/sec    0   1.02 MBytes       
+[  4]  12.00-13.00  sec  61.2 MBytes   514 Mbits/sec    0   1.02 MBytes       
+[  4]  13.00-14.00  sec  61.2 MBytes   514 Mbits/sec    0   1.02 MBytes       
+[  4]  14.00-15.00  sec  61.2 MBytes   513 Mbits/sec    0   1.02 MBytes       
+[  4]  15.00-16.00  sec  61.2 MBytes   514 Mbits/sec    0   1.02 MBytes       
+[  4]  16.00-17.00  sec  61.2 MBytes   514 Mbits/sec    0   1.02 MBytes       
+[  4]  17.00-18.00  sec  61.2 MBytes   514 Mbits/sec    0   1.02 MBytes       
+[  4]  18.00-19.00  sec  61.2 MBytes   514 Mbits/sec    0   1.02 MBytes       
+[  4]  19.00-20.00  sec  61.3 MBytes   514 Mbits/sec    0   1.02 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-20.00  sec  1.31 GBytes   564 Mbits/sec    0             sender
+[  4]   0.00-20.00  sec  1.31 GBytes   563 Mbits/sec                  receiver
+
+iperf Done.
+
+CPU3 peak: 50.3%
+CPU2 peak: 17.2%
+CPU1 peak: 0.7%
+CPU0 peak: 0.0%
+
+Connecting to host 10.0.0.1, port 5010
+[  4] local 192.168.1.174 port 53030 connected to 10.0.0.1 port 5010
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec   110 MBytes   921 Mbits/sec    0   1.02 MBytes       
+[  4]   1.00-2.00   sec   109 MBytes   916 Mbits/sec    0   1.07 MBytes       
+[  4]   2.00-3.00   sec  86.5 MBytes   726 Mbits/sec    0   1.07 MBytes       
+[  4]   3.00-4.00   sec  61.9 MBytes   519 Mbits/sec    0   1.07 MBytes       
+[  4]   4.00-5.00   sec  61.7 MBytes   518 Mbits/sec    0   1.07 MBytes       
+[  4]   5.00-6.00   sec  61.8 MBytes   518 Mbits/sec    0   1.07 MBytes       
+[  4]   6.00-7.00   sec  61.9 MBytes   519 Mbits/sec    0   1.07 MBytes       
+[  4]   7.00-8.00   sec  61.5 MBytes   516 Mbits/sec    0   1.07 MBytes       
+[  4]   8.00-9.00   sec  61.2 MBytes   514 Mbits/sec    0   1.07 MBytes       
+[  4]   9.00-10.00  sec  61.0 MBytes   512 Mbits/sec    0   1.07 MBytes       
+[  4]  10.00-11.00  sec  61.1 MBytes   513 Mbits/sec    0   1.07 MBytes       
+[  4]  11.00-12.00  sec  61.0 MBytes   512 Mbits/sec    0   1.07 MBytes       
+[  4]  12.00-13.00  sec  61.2 MBytes   514 Mbits/sec    0   1.07 MBytes       
+[  4]  13.00-14.00  sec  61.1 MBytes   512 Mbits/sec    0   1.07 MBytes       
+[  4]  14.00-15.00  sec  61.0 MBytes   512 Mbits/sec    0   1.07 MBytes       
+[  4]  15.00-16.00  sec  61.0 MBytes   512 Mbits/sec    0   1.07 MBytes       
+[  4]  16.00-17.00  sec  61.2 MBytes   513 Mbits/sec    0   1.07 MBytes       
+[  4]  17.00-18.00  sec  61.0 MBytes   512 Mbits/sec    0   1.07 MBytes       
+[  4]  18.00-19.00  sec  61.0 MBytes   512 Mbits/sec    0   1.07 MBytes       
+[  4]  19.00-20.00  sec  61.0 MBytes   512 Mbits/sec    0   1.07 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-20.00  sec  1.32 GBytes   565 Mbits/sec    0             sender
+[  4]   0.00-20.00  sec  1.31 GBytes   565 Mbits/sec                  receiver
+
+iperf Done.
+CPU3 peak: 49.7%
+CPU2 peak: 15.3%
+CPU1 peak: 0.7%
+CPU0 peak: 0.0%

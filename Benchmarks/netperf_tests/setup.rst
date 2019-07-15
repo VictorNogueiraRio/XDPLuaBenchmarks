@@ -23,6 +23,8 @@ Test Procedure
 We have 3 laptops, running the same operating system, with the same hardware and connected to the same network
 One running as a client, another as a router and the last one as a server
 
+The router is connected directly to the server
+
 ==================================
 Server
 ==================================
